@@ -75,83 +75,134 @@ it should redirect you to this page,We will choose the "Create Windows 10 instal
 <img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/68160e5b-0921-4ffd-b23f-38cb24889837" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 After Clicking the Download button we are gonna get the mediac creation tool for Windows this will be used to create the ISO file for our VM
-
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/bba45990-bbda-4172-8304-e31237f7d94d)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/bba45990-bbda-4172-8304-e31237f7d94d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 We are gonna run the media creation tool and we'll gonna get a dialogue box.
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/a9fe8d93-cd45-43f1-b132-2b48302a9404)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/a9fe8d93-cd45-43f1-b132-2b48302a9404" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 Now that all are set up and ready,we got to accept the license terms and agreements.
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/b7097baf-c3e1-44c1-a43a-4879c837923b)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/b7097baf-c3e1-44c1-a43a-4879c837923b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 The next step, is where we choose the Language, Edition, and arhcitecture for our OS, we use Windows 10 for our edition and the 64 bit architecture for better performance and to avoid compatibility issue with other software.
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/0a0c2dfa-d820-4a12-b40b-e7199bf5427f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/0a0c2dfa-d820-4a12-b40b-e7199bf5427f)
 
 After that we are gonna create our ISO file 
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/72eb7c68-4eae-4ee3-bef7-f05d81eab904)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/72eb7c68-4eae-4ee3-bef7-f05d81eab904" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 We choose where our created iso file will be after the creation
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/d73f7a7b-5ddb-41e2-8506-db373833a891)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/d73f7a7b-5ddb-41e2-8506-db373833a891" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 Now we are finished creating our ISO file, we are ready to spin up our own VM on VirtualBox
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ecdcaf01-c5de-4dc4-941e-ee51b94e7687)
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ecdcaf01-c5de-4dc4-941e-ee51b94e7687" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 ### STEP: 4 Setting up our VM on VirtualBox
 We click the New button so we could create a new VM
-![1](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/23e294ad-3f6b-4d92-9767-751af1c5f8a3)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/23e294ad-3f6b-4d92-9767-751af1c5f8a3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 after that we are going to name our VM and choose a folder where our VM will be stored
-![2](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ca765271-b349-4074-8bc4-a5d55ba8d5be)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ca765271-b349-4074-8bc4-a5d55ba8d5be" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Allocationg RAM and process for our VM, this will dictate the specs of our VM we are going to allocate 8GB of RAM and 3 CPU processor for our VM 
-![3](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/39deeaf5-b3c0-4ac2-9916-7539ddc1bca2)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/39deeaf5-b3c0-4ac2-9916-7539ddc1bca2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 We are goint to need to allocate a Virtual Hard disk for our VM , we are gonna need more than 20GB of Hard Disk for our VM
-![4](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/e275d445-21c9-4ac5-9519-8f9504a14560)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/e275d445-21c9-4ac5-9519-8f9504a14560" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 We are done with setting up the specs for our VM you can see here the General, System and storage setting that we allocated to our VM, Go to setting for some adjustments
-![5](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/02281981-57a8-40c4-a9fb-4994eaa6338b)
-click on the advance setting 
-![6](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/961a3cbd-22a0-4512-acd4-70f9cf23d41a)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/02281981-57a8-40c4-a9fb-4994eaa6338b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+click on the advance setting
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/961a3cbd-22a0-4512-acd4-70f9cf23d41a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 we could change where aour VM snapshots are stored, Snapshots are used for restoring VM to certain point of time, if we ever encounter a system failure.
-![7](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/9fe9da78-c2fd-4066-89df-e31ac6752c0d)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/9fe9da78-c2fd-4066-89df-e31ac6752c0d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 Click on the Storage option so we can choose our iso file and run our VM, click on the disk icon.
-![8](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/e867854d-6aa5-4fe0-9e6f-6408c3be1c9d)
+
 choose a disk file
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/229758ef-dda1-4ca3-b870-567f55836774)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/229758ef-dda1-4ca3-b870-567f55836774" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Choose our ISO file
-![9](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/a5dc9b54-40cf-4e8c-8c69-53c3df26afd3)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/a5dc9b54-40cf-4e8c-8c69-53c3df26afd3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 After that we start our VM press start
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/3dd38eda-1bc5-40dc-bf70-7b513112e3ad)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/3dd38eda-1bc5-40dc-bf70-7b513112e3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 now our VM is running
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/4a7f1f91-e25e-45f7-9de5-69173c532986)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/4a7f1f91-e25e-45f7-9de5-69173c532986" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 its our first time running this VM so we need to install our OS, select desired language
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/c23dd08e-5ce5-41fd-976c-b1cdda46c49b)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/c23dd08e-5ce5-41fd-976c-b1cdda46c49b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Install Windows
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/44a09a1a-de9d-4161-ba8f-ce25f2ca6306)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/44a09a1a-de9d-4161-ba8f-ce25f2ca6306" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 we dont have a product key so we choose this one
-![10](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/835fe0d0-d0da-466a-94f2-b48048196088)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/835fe0d0-d0da-466a-94f2-b48048196088" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 we will choose windows 10 pro 
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/5ef50104-38f7-4c45-b683-f381de462d1e)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/5ef50104-38f7-4c45-b683-f381de462d1e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 accept license terms and agreements
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/d0348919-6371-46c1-b873-6c78df3b6b93)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/d0348919-6371-46c1-b873-6c78df3b6b93" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 Select our Virtual Hard Disk
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/2cb7afda-bd63-4753-b428-cbe704750b43)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/2cb7afda-bd63-4753-b428-cbe704750b43" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 Let the process continue
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/47b90384-fcfc-4cdf-a6da-17473470b9c5)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/47b90384-fcfc-4cdf-a6da-17473470b9c5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 we are going to need to name our virtual PC
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/5638bfe2-ceb1-4517-9e62-31d6938405cb)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/5638bfe2-ceb1-4517-9e62-31d6938405cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 and also set a password
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/c699b1e5-0cad-4ec2-8252-8dc4cebc03f5)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/c699b1e5-0cad-4ec2-8252-8dc4cebc03f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 now we are done and ready to use our VM
-![image](https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ff9fec29-8fac-4cb7-9fa9-10efbde7ce98)
+
+<img src="https://github.com/yelsanity/yelsanity-how-to-setup-VM-using-Vbox/assets/142726793/ff9fec29-8fac-4cb7-9fa9-10efbde7ce98" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
